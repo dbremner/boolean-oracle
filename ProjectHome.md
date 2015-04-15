@@ -1,0 +1,1 @@
+[Boolean Oracle](http://boolean-oracle.swtch.com/)
